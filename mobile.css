@@ -48,7 +48,7 @@ body {
     position: relative;
     top: 10px;
 }
-@media screen and (min-width:600px) {
+@media screen and (min-width:677px) {
     .mobile {
         background-color: aliceblue;
     }   
