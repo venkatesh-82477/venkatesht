@@ -1,0 +1,54 @@
+body {
+    background-image: url(./sha.webp);
+    background-repeat: no-repeat;
+    display: flex;
+    flex-wrap: wrap;
+}
+@media screen and (min-width:320px) and (max-width:700px){
+    
+#flexcon {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    position: relative;
+    top: 150px;
+    left: 10px;
+}
+#emoji{
+    background-color: yellow;
+    height: 30px;
+    width: 30px;
+    font-size: 30px;
+    border-radius: 50%;
+    text-align: center;
+}
+#head1{
+    font-size: 20px;
+    font-weight: bold;
+    color:darkmagenta;
+}
+#head2{
+    font-size: 20px;
+    font-weight: bold;
+    color: maroon;
+}
+#h1{
+    font-size: 20px;
+    font-weight: bold;
+    color: slateblue;
+}
+#btn1 {
+    position: relative;
+    top: 200px;
+    width: 120px;
+    height: 20px;
+    left: 20px;
+}
+#img1{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: 250px;
+    left: 100px;
+}
+}
